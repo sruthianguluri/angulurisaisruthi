@@ -5,10 +5,10 @@
 
 🚀 Projects I've Worked On
 
-🌧️ Rainfall Prediction Web App
+🌧️ Machine Learning Based Rainfall Predection
 Designed and developed a web application using Django and machine learning models like Linear Regression, ElasticNet, and CNNs to forecast rainfall patterns based on historical weather data. Integrated data visualizations for enhanced user interaction.
 
-🚦 Traffic Sign Recognition System
+🚦 Traffic Sign Recognition Using CNN
 Implemented a CNN-based deep learning model trained on the GTSRB dataset to classify 43 different types of traffic signs. Aimed at enhancing intelligent transport systems and promoting safer driving environments.
 
 🧰 Technical Proficiencies
